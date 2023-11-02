@@ -1,1 +1,1 @@
-# Binary-classification-using-supervised-learning
+# Binary-classification-using-multiple-models
